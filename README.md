@@ -14,7 +14,7 @@ I enjoy building projects and improving my skills in **cloud computing and progr
 
 ## 🛠 Technical Toolkit
 
-**Cloud Platforms:** AWS,   
+**Cloud Platforms:** AWS, EC2 , S3 , RDS , VPC , IAM , CloudWatch , Monitoring  
 
 **Infrastructure & Automation:** Terraform, Docker, CI/CD Pipelines  
 
